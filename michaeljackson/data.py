@@ -20,6 +20,6 @@ LIFE: Dict[str, List[str]] = {  # Copyright: Wikipedia
 
 
 def get_random_info() -> str:
-    key = random.choice(LIFE.keys())
+    key = random.choice(list(LIFE.keys()))
     value = ' '.join(LIFE[key])
     return f'{key}: {value}'
