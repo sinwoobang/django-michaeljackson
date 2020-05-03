@@ -9,7 +9,7 @@ setup(
     name='django-michaeljackson',
     version='0.0.1',
     license='BSD',
-    description='Web APIs for Django, made easy.',
+    description="Put Michael Jackson's information into every response",
     long_description=README,
     long_description_content_type='text/markdown',
     author='Sin-Woo Bang',
