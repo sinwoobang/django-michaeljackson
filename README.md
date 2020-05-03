@@ -1,5 +1,6 @@
 # django-michaeljackson
 
+<img src="https://www.grammy.com/sites/com/files/styles/news_detail_header/public/blogs/79917259.jpg?itok=vbiQiNae" alt="">
 A middleware library that puts Michael Jackson's information into every response.
 
 ## Installation
