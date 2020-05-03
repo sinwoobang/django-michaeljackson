@@ -6,7 +6,7 @@ with open(os.path.join(os.path.dirname(__file__), 'README.md')) as readme:
     README = readme.read()
 
 setup(
-    name='django-michaeljackson',
+    name='django-michael-jackson',
     version='0.0.1',
     license='BSD',
     description="Put Michael Jackson's information into every response",

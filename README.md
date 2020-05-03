@@ -1,4 +1,4 @@
-# django-michaeljackson
+# django-michael-jackson
 
 <img src="https://www.grammy.com/sites/com/files/styles/news_detail_header/public/blogs/79917259.jpg?itok=vbiQiNae" alt="">
 A middleware library that puts Michael Jackson's information into every response.
@@ -8,7 +8,7 @@ A middleware library that puts Michael Jackson's information into every response
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
 
 ```bash
-pip install django-michaeljackson
+pip install django-michael-jackson
 ```
 
 In your settings.py
