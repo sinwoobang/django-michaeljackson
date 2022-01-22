@@ -8,14 +8,20 @@ LIFE: Dict[str, List[str]] = {  # Copyright: Wikipedia
                        'Forest Lawn Memorial Park, Glendale, California, U.S.'],
     'Other names': ['Michael Joe Jackson'], 'Occupation': ['Singer', 'Songwriter', 'Dancer'],
     'Spouse(s)': ['Lisa Marie Presley', '(m. 1994; div. 1996)', 'Debbie Rowe', '(m. 1996; div. 1999)'],
-    'Children': ['Michael Jr', 'Paris', 'Prince', 'Michael II'], 'Parent(s)': ['Joe Jackson', 'Katherine Jackson'],
+    'Children': ['Michael Jr', 'Paris', 'Prince', 'Michael II'],
+    'Parent(s)': ['Joe Jackson', 'Katherine Jackson'],
+    'Brothers_And_Sisters': ['Jackie Jackson', 'Tito Jackson', 'Jermaine Jackson', 'Marlon Jackson', 'Randy Jackson', 
+                 'La Toya Jackson', 'Janet Jackson', 'Rebbie Jackson'],
     'Family': ['Jackson family'],
     'Awards': ['https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Michael_Jackson'],
     'Genres': ['Pop', 'Soul', 'Funk', 'Rhythm and blues', 'Rock',
                'Disco', 'Post-disco', 'Dance-pop', 'New jack swing'],
     'Instruments': ['Vocals'], 'Years active': ['1964–2009'],
     'Labels': ['Steeltown', 'Motown', 'Epic', 'Legacy', 'Sony', 'MJJ Productions'],
-    'Associated acts': ['The Jackson 5'], 'Website': ['www.michaeljackson.com']
+    'Associated acts': ['The Jackson 5', 'The Jacksons'], 
+    'Albums': ['Got to Be There', 'Ben', 'Music & Me', 'Forever, Michael',
+               'Off The Wall', 'Thriller', 'Bad', 'Dangerous', 'Invincible', 'Michael', 'Xscape'],
+    'Website': ['www.michaeljackson.com']
 }
 
 
